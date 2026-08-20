@@ -1,0 +1,49 @@
+{
+  "types": [
+    {
+      "id": "plate",
+      "name": "板式热交换器",
+      "brand": "SRP（舒瑞普）",
+      "features": ["换热效率高", "体积小", "可增减板片", "维修便利"],
+      "max_pressure": "10-25 bar",
+      "max_temp": "180-200°C",
+      "applications": ["化工", "制药", "食品", "石油"]
+    },
+    {
+      "id": "spiral",
+      "name": "螺旋式热交换器",
+      "brand": "KUROSE",
+      "features": ["自清功能", "耐结垢", "适合长时间运转", "适用高粘度"],
+      "max_pressure": "20 bar",
+      "max_temp": "200°C",
+      "applications": ["废水", "含固流体", "高粘度介质", "工业循环"]
+    },
+    {
+      "id": "shell",
+      "name": "壳板式热交换器",
+      "brand": "VAHTERUS",
+      "features": ["体积紧凑", "承压高", "耐温度剧变", "船舶认证"],
+      "max_pressure": "25-30 bar",
+      "max_temp": "250°C",
+      "applications": ["化工", "船舶", "发电", "暖通"]
+    },
+    {
+      "id": "ptfe",
+      "name": "PTFE热交换器",
+      "brand": "WOOAM",
+      "features": ["强耐腐蚀", "耐高温", "无金属析出", "高洁净度"],
+      "max_pressure": "中压",
+      "max_temp": "200°C",
+      "applications": ["半导体", "电子级化学品", "高纯度介质", "强酸强碱"]
+    },
+    {
+      "id": "vocs",
+      "name": "VOCs冷凝器",
+      "brand": "COOL+",
+      "features": ["气液/气气换热", "小体积", "维护便利", "多种材质"],
+      "max_pressure": "常压至中压",
+      "max_temp": "200°C",
+      "applications": ["VOCs治理", "废气处理", "溶剂回收", "环保工程"]
+    }
+  ]
+}
