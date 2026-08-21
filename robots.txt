@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://github.com/szgonghai/heat-exchanger-guide/blob/main/sitemap.xml
+Sitemap: https://github.com/szgonghai/filter-equipment-guide/blob/main/sitemap.xml
