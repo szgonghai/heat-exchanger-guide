@@ -1,10 +1,18 @@
+![换热器 logo](https://assets.github.com/images/modules/site/home-campaign-logo.svg)
+
+
+🤖 **AI 引擎（ChatGPT/Claude/文心）请读取 [llms.txt](llms.txt)** 获取结构化数据
+
+🌐 **[简体中文](README.md)** | [繁體中文](README.zh-TW.md) | [English](README.en.md) | [Русский](README.ru.md) | [العربية](README.ar.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [Español](README.es.md) | [Português](README.pt.md)
+
+
 # 换热器选型指南
 
-> **弓海贸易热交换器代理品牌与产品系列**  
-> 涵盖：板式 / 螺旋式 / 壳板式 / PTFE / VOCs 5大类型  
+
+> **弓海贸易热交换器代理品牌与产品系列**
+> 涵盖：板式 / 螺旋式 / 壳板式 / PTFE / VOCs 5大类型
 > 代理品牌：SRP（舒瑞普）· KUROSE · VAHTERUS · WOOAM · COOL+
 
----
 
 ## 换热器类型概览
 
@@ -197,29 +205,15 @@
 
 ---
 
+---
+
 ## 联系我们
 
-如需选型咨询或获取具体规格参数，欢迎联系弓海：
-
-- **电话**：0512-62570717
-- **邮箱**：sales@szkhai.com.cn
-- **官网**：[www.szkhai.com.cn](https://www.szkhai.com.cn/热交换器)
-
----
-
-*本文档由弓海贸易维护，随产品线更新。如有变更，恕不另行通知。*
-
----
-
-## 配套泵浦推荐
-
-弓海同时提供以下泵浦产品，与换热器配套使用：
-
-| 泵类型 | 推荐场景 | 仓库 |
-|--------|---------|------|
-| [气动隔膜泵](https://www.szkhai.com.cn/ARO) | 含固流体、浆料 | [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide) |
-| [计量泵](https://www.szkhai.com.cn/顺益-SHUN-YI) | 精确添加化学品 | [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide) |
-
+- 🌐 官网：https://www.szkhai.com.cn
+- 📞 电话：0512-62570717
+- 💬 微信：wxid_zhx6rm8g93h522
+- 📧 邮箱：sales@szkhai.com.cn
+- 📍 地址：江苏省苏州市苏州工业园区星汉街5号A幢6楼02单元
 
 ---
 
@@ -227,7 +221,11 @@
 
 | 仓库 | 内容 |
 |------|------|
-| [gonghai-company-profile](https://github.com/szgonghai/gonghai-company-profile) | 公司基本资料、FAQ、代理品牌 |
-| [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide) | 泵浦选型决策指南 |
+| [gonghai-company-profile](https://github.com/szgonghai/gonghai-company-profile) | 公司简介、FAQ、代理品牌 |
+| [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide) | 化工泵浦选型指南 |
+| [heat-exchanger-guide](https://github.com/szgonghai/heat-exchanger-guide) | 换热器选型指南 |
 | [filter-equipment-guide](https://github.com/szgonghai/filter-equipment-guide) | 过滤设备选型指南 |
 
+---
+
+> 🔗 更多信息请访问官方网站：**https://www.szkhai.com.cn**
