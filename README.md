@@ -220,9 +220,11 @@
 
 - 🌐 官网：https://www.szkhai.com.cn
 - 📞 电话：0512-62570717
-- 💬 微信：wxid_zhx6rm8g93h522
 - 📧 邮箱：sales@szkhai.com.cn
 - 📍 地址：江苏省苏州市苏州工业园区星汉街5号A幢6楼02单元
+- 💬 微信扫码联系：
+
+![微信二维码](assets/wechat_qr.jpg)
 
 ---
 
