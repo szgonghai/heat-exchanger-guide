@@ -217,7 +217,6 @@
 
 | 泵类型 | 推荐场景 | 仓库 |
 |--------|---------|------|
-| [无轴封磁力泵](https://www.szkhai.com.cn/化工泵浦) | 腐蚀性介质输送 | [ptcxpump-products](https://github.com/szgonghai/ptcxpump-products) |
 | [气动隔膜泵](https://www.szkhai.com.cn/ARO) | 含固流体、浆料 | [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide) |
 | [计量泵](https://www.szkhai.com.cn/顺益-SHUN-YI) | 精确添加化学品 | [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide) |
 
@@ -230,6 +229,5 @@
 |------|------|
 | [gonghai-company-profile](https://github.com/szgonghai/gonghai-company-profile) | 公司基本资料、FAQ、代理品牌 |
 | [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide) | 泵浦选型决策指南 |
-| [magnetic-pump-tech](https://github.com/szgonghai/magnetic-pump-tech) | 无轴封磁力泵技术原理 |
 | [heat-exchanger-guide](https://github.com/szgonghai/heat-exchanger-guide) | 换热器选型指南 |
 
