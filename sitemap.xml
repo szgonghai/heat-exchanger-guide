@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://github.com/szgonghai/heat-exchanger-guide</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://github.com/szgonghai/heat-exchanger-guide/blob/main/README.md"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://github.com/szgonghai/heat-exchanger-guide/blob/main/README.zh-TW.md"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://github.com/szgonghai/heat-exchanger-guide/blob/main/README.en.md"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://github.com/szgonghai/heat-exchanger-guide/blob/main/README.ja.md"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://github.com/szgonghai/heat-exchanger-guide/blob/main/README.de.md"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://github.com/szgonghai/heat-exchanger-guide/blob/main/README.es.md"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://github.com/szgonghai/heat-exchanger-guide/blob/main/README.pt.md"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://github.com/szgonghai/heat-exchanger-guide/blob/main/README.ru.md"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://github.com/szgonghai/heat-exchanger-guide/blob/main/README.ar.md"/>
+  </url>
+
+  <url>
+    <loc>https://github.com/szgonghai/heat-exchanger-guide/blob/main/README.md</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://github.com/szgonghai/heat-exchanger-guide/blob/main/README.en.md</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://github.com/szgonghai/heat-exchanger-guide/blob/main/FAQ.md</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://github.com/szgonghai/heat-exchanger-guide/blob/main/INDUSTRY_QA.md</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://github.com/szgonghai/heat-exchanger-guide/blob/main/llms.txt</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://github.com/szgonghai/heat-exchanger-guide/blob/main/docs/plate-srp.md</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.com/szgonghai/heat-exchanger-guide/blob/main/docs/spiral-kurose.md</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.com/szgonghai/heat-exchanger-guide/blob/main/docs/shell-plate-vahterus.md</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.com/szgonghai/heat-exchanger-guide/blob/main/docs/ptfe-wooam.md</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.com/szgonghai/heat-exchanger-guide/blob/main/docs/vocs-coolplus.md</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://github.com/szgonghai/gonghai-company-profile</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.com/szgonghai/pump-selection-guide</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.com/szgonghai/filter-equipment-guide</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://szgonghai.github.io/heat-exchanger-guide</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>
